@@ -66,6 +66,7 @@ Follow these steps for completing your project.
 
 
 ## Minimum Viable Product
+NAV BAR ISNT COMPLETE!
 
 Your finished project must include all of the following requirements:
 
